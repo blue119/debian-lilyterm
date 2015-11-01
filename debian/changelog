@@ -1,4 +1,4 @@
-lilyterm (0.9.9.4+git20150208.f600c0-1.1) unstable; urgency=medium
+lilyterm (0.9.9.4+git20150208.f600c0-0.1) unstable; urgency=medium
 
   * Non-maintainer upload
   * Build lilyterm based on gtk-3 as default (Closes: #790181)
