@@ -20,7 +20,7 @@ override_dh_auto_configure:
 	cp $(CURDIR)/po/lilyterm.pot $(CURDIR)/debian/bak/po
 
 	./autogen.sh
-	dh_auto_configure -- --disable-silent-rules
+	dh_auto_configure -- --disable-silent-rules --with-gtk=3.0
 
 override_dh_auto_clean:
 	dh_auto_clean

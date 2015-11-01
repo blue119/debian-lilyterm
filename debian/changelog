@@ -1,3 +1,11 @@
+lilyterm (0.9.9.4+git20150208.f600c0) unstable; urgency=medium
+
+  * Non-maintainer upload
+  * Build lilyterm based on gtk-3 as default (Closes: #790181)
+  * Merge lilyterm upstream to upstream and master
+
+ -- Yao-Po Wang <blue119@gmail.com>  Sun, 01 Nov 2015 16:08:20 +0800
+
 lilyterm (0.9.9.4-4) unstable; urgency=medium
 
   [ ChangZhuo Chen (陳昌倬) ]
